@@ -1,0 +1,3 @@
+[submodule "pyenv-virtualenv"]
+	path = pyenv-virtualenv
+	url = git@github.com:bleepster/pyenv-virtualenv.git
